@@ -23,7 +23,7 @@
 
                 <configuration>
                     <nodeVersion>v8.10.0</nodeVersion>
-                    <npmVersion>5.7.1</npmVersion>
+                    <npmVersion>6.0.1</npmVersion>
                     <workingDirectory>src/main/userinterface</workingDirectory>
                 </configuration>
 
